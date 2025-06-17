@@ -1,16 +1,43 @@
-# flutter_ride_app
+# RayRides DTU 🚗
 
-A new Flutter project.
+A Flutter-based ride sharing prototype  with:
+- Flutter Maps integration
+- Driver selection
+- Bilingual support (Hindi and English)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 How to Run
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run `flutter run` (supports Android, Web, etc.)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖥️ Screens
+- Login screen
+- Map with live location
+- Ride tracking screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🌟 Features
+- User location permission
+- Hindi/English localization
+- Modular and scalable codebase
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Screen
+![Login](screenshots/login_screen.jpg)
+
+### 🗺️ Map Screen
+![Map](screenshots/map_screen.jpg)
+
+### 🗺️ Driver selection Screen
+![Drivers](screenshots/driver_selection_screen.jpg)
+
+### 🗺️ Map Screen
+![Map](screenshots/ride_tracking_screen.jpg)
