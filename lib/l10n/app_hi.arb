@@ -3,5 +3,19 @@
   "loginTitle": "लॉगिन",
   "enterPhone": "अपना फ़ोन नंबर दर्ज करें",
   "findRide": "सवारी ढूंढें",
-  "selectDriver": "ड्राइवर चुनें"
+  "selectDriver": "ड्राइवर चुनें",
+  "createAccount": "खाता बनाएं",
+  "otpDescription": "हम इस मोबाइल नंबर पर आपको एक वन टाइम पासवर्ड भेजेंगे",
+  "send": "भेजें",
+  "mobileNumberPlaceholder": "मोबाइल नंबर",
+  "enterOtp": "OTP दर्ज करें",
+  "otpSentTo": "हमने एक सत्यापन कोड भेजा है",
+  "verify": "सत्यापित करें",
+  "didntReceiveCode": "कोड नहीं मिला?",
+  "resend": "पुनः भेजें",
+  "otpSent": "OTP भेजा गया!",
+  "enterFourDigitOtp": "कृपया 4-अंकीय OTP दर्ज करें",
+  "invalidOtp": "अवैध OTP",
+  "mobileVerificationDone": "मोबाइल सत्यापन\nसफलतापूर्वक पूरा हुआ"
+  
 }

@@ -19,4 +19,43 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get selectDriver => 'Select a Driver';
+
+  @override
+  String get createAccount => 'Create Account';
+
+  @override
+  String get otpDescription => 'We will send you a one time password on this mobile number';
+
+  @override
+  String get send => 'Send';
+
+  @override
+  String get mobileNumberPlaceholder => 'Mobile Number';
+
+  @override
+  String get enterOtp => 'Enter OTP';
+
+  @override
+  String get otpSentTo => 'We have sent a verification code to';
+
+  @override
+  String get verify => 'Verify';
+
+  @override
+  String get didntReceiveCode => 'Didn\'t receive code?';
+
+  @override
+  String get resend => 'Resend';
+
+  @override
+  String get otpSent => 'OTP Sent!';
+
+  @override
+  String get enterFourDigitOtp => 'Please enter the 4-digit OTP';
+
+  @override
+  String get invalidOtp => 'Invalid OTP';
+
+  @override
+  String get mobileVerificationDone => 'Mobile verification has\nsuccessfully done';
 }

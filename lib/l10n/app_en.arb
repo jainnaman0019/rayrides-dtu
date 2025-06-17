@@ -3,5 +3,18 @@
   "loginTitle": "Login",
   "enterPhone": "Enter your phone number",
   "findRide": "Find Ride",
-  "selectDriver": "Select a Driver"
+  "selectDriver": "Select a Driver",
+  "createAccount": "Create Account",
+  "otpDescription": "We will send you a one time password on this mobile number",
+  "send": "Send",
+  "mobileNumberPlaceholder": "Mobile Number",
+  "enterOtp": "Enter OTP",
+  "otpSentTo": "We have sent a verification code to",
+  "verify": "Verify",
+  "didntReceiveCode": "Didn't receive code?",
+  "resend": "Resend",
+  "otpSent": "OTP Sent!",
+  "enterFourDigitOtp": "Please enter the 4-digit OTP",
+  "invalidOtp": "Invalid OTP",
+  "mobileVerificationDone": "Mobile verification has\nsuccessfully done"
 }

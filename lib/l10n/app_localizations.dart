@@ -118,6 +118,84 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Select a Driver'**
   String get selectDriver;
+
+  /// No description provided for @createAccount.
+  ///
+  /// In en, this message translates to:
+  /// **'Create Account'**
+  String get createAccount;
+
+  /// No description provided for @otpDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'We will send you a one time password on this mobile number'**
+  String get otpDescription;
+
+  /// No description provided for @send.
+  ///
+  /// In en, this message translates to:
+  /// **'Send'**
+  String get send;
+
+  /// No description provided for @mobileNumberPlaceholder.
+  ///
+  /// In en, this message translates to:
+  /// **'Mobile Number'**
+  String get mobileNumberPlaceholder;
+
+  /// No description provided for @enterOtp.
+  ///
+  /// In en, this message translates to:
+  /// **'Enter OTP'**
+  String get enterOtp;
+
+  /// No description provided for @otpSentTo.
+  ///
+  /// In en, this message translates to:
+  /// **'We have sent a verification code to'**
+  String get otpSentTo;
+
+  /// No description provided for @verify.
+  ///
+  /// In en, this message translates to:
+  /// **'Verify'**
+  String get verify;
+
+  /// No description provided for @didntReceiveCode.
+  ///
+  /// In en, this message translates to:
+  /// **'Didn\'t receive code?'**
+  String get didntReceiveCode;
+
+  /// No description provided for @resend.
+  ///
+  /// In en, this message translates to:
+  /// **'Resend'**
+  String get resend;
+
+  /// No description provided for @otpSent.
+  ///
+  /// In en, this message translates to:
+  /// **'OTP Sent!'**
+  String get otpSent;
+
+  /// No description provided for @enterFourDigitOtp.
+  ///
+  /// In en, this message translates to:
+  /// **'Please enter the 4-digit OTP'**
+  String get enterFourDigitOtp;
+
+  /// No description provided for @invalidOtp.
+  ///
+  /// In en, this message translates to:
+  /// **'Invalid OTP'**
+  String get invalidOtp;
+
+  /// No description provided for @mobileVerificationDone.
+  ///
+  /// In en, this message translates to:
+  /// **'Mobile verification has\nsuccessfully done'**
+  String get mobileVerificationDone;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

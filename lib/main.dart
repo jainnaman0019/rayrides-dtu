@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_ride_app/l10n/app_localizations.dart'; // your manual localization file
+import 'package:flutter_ride_app/l10n/app_localizations.dart'; 
 import 'login_screen.dart';
 
 void main() {
