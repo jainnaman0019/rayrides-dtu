@@ -35,6 +35,9 @@ A Flutter-based ride sharing prototype  with:
 ### 🔐 Login Screen
 <img src="screenshots/login_screen.jpg" alt="Login Screen" width="300"/>
 
+### 🔐 Login Screen
+<img src="screenshots/otp.jpg" alt="Login Screen" width="300"/>
+
 ### 🗺️ Map Screen
 <img src="screenshots/map_screen.jpg" alt="Map Screen" width="300"/>
 
