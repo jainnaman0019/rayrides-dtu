@@ -30,14 +30,17 @@ A Flutter-based ride sharing prototype  with:
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🔐 Login Screen
-![Login](screenshots/login_screen.jpg)
+<img src="screenshots/login_screen.jpg" alt="Login Screen" width="300"/>
 
 ### 🗺️ Map Screen
-![Map](screenshots/map_screen.jpg)
+<img src="screenshots/map_screen.jpg" alt="Map Screen" width="300"/>
 
-### 🗺️ Driver selection Screen
-![Drivers](screenshots/driver_selection_screen.jpg)
+### 🚗 Driver Selection Screen
+<img src="screenshots/driver_selection_screen.jpg" alt="Driver Selection Screen" width="300"/>
 
-### 🗺️ Map Screen
-![Map](screenshots/ride_tracking_screen.jpg)
+### 📍 Ride Tracking Screen
+<img src="screenshots/ride_tracking_screen.jpg" alt="Ride Tracking Screen" width="300"/>
+
